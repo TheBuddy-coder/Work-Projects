@@ -68,7 +68,7 @@ Entwicklung eines plattformkonformen Konverters, sodass PM und Tech-Support Vide
 - 12 Sprints à 2 Wochen  
 
 **Problem:**  
-Bestellungen wurden per PDF übermittelt und manuell bei der LANDI verarbeitet (Auftrag erstellt).
+Bestellungen vom Online-Shop wurden per PDF übermittelt und manuell bei der LANDI verarbeitet (Auftrag erstellt).
 
 **Lösung:**  
 Digitalisierung und Automatisierung des Auftragsprozesses.
@@ -80,7 +80,7 @@ Digitalisierung und Automatisierung des Auftragsprozesses.
 
 ---
 
-## 💰 Einführung des neuen MwSt.-Satzes (Bison)
+## 💰 Einführung neue MwSt.-Satze (Bison)
 
 **Projektumfang:**  
 - 480h Aufwand  

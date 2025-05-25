@@ -65,7 +65,7 @@ Entwicklung eines plattformkonformen Konverters, sodass PM und Tech-Support Vide
 **Projektumfang:**  
 - 1600h Aufwand  
 - 2–3 Entwickler, 1 Hauptprojektleiter + weitere je nach Bedarf
-- 8 Sprints à 2 Wochen  
+- 12 Sprints à 2 Wochen  
 
 **Problem:**  
 Bestellungen wurden per PDF übermittelt und manuell bei der LANDI verarbeitet (Auftrag erstellt).
@@ -93,8 +93,8 @@ Ab dem 1. Januar 2024:
 - Reduzierter Satz: 2,6 % (vorher 2,5 %)
 
 **Herausforderung:**  
-- Breite Auswirkungen auf Prozesse (Auftrag, Rechnung, Rabatte).  
+- Breite Auswirkungen auf Prozesse (Auftrag, Rechnung, Rabatte, etc).  
 - Geringes internes Know-how (letzte Änderung >6 Jahre her).  
-- Komplexität durch Sonderfälle (z.B. Lieferung am 31.12., Buchung am 02.01.).
+- Komplexität durch Sonderfälle (z.B. Lieferung am 31.12., Verbuchung am 02.01.).
 
 ---

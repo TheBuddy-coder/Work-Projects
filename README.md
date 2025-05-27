@@ -62,28 +62,25 @@ Entwicklung eines plattformkonformen Konverters, sodass PM und Tech-Support Vide
 
 ## 🌱 Auftragsimport LANDI (Bison)
 
-**Projektumfang:**  
-- 1600h Aufwand  
+**Projektumfang:**   
 - 2–3 Entwickler, 1 Hauptprojektleiter + weitere je nach Bedarf
-- 8 Sprints à 2 Wochen  
+- 12 Sprints à 2 Wochen  
 
 **Problem:**  
-Bestellungen wurden per PDF übermittelt und manuell bei der LANDI verarbeitet (Auftrag erstellt).
+Bestellungen vom Online-Shop wurden per PDF übermittelt und manuell bei der LANDI verarbeitet (Auftrag erstellt).
 
 **Lösung:**  
 Digitalisierung und Automatisierung des Auftragsprozesses.
 
 **Lösungsweg:**  
 - Automatischer Import von Warenkorb-Inhalten.  
-- Entwicklung einer neuen Benutzeroberfläche zur Lagerprüfung und Auftragserstellung.  
 - Anbindung an Integration Services und ERP-Systeme.
 
 ---
 
-## 💰 Einführung des neuen MwSt.-Satzes (Bison)
+## 💰 Einführung neue MwSt.-Satze (Bison)
 
-**Projektumfang:**  
-- 480h Aufwand  
+**Projektumfang:**    
 - 3 Entwickler (Mehrere Scrum-Teams), 1 Projektleiter  
 - 3 Sprints à 2 Wochen
 
@@ -93,8 +90,8 @@ Ab dem 1. Januar 2024:
 - Reduzierter Satz: 2,6 % (vorher 2,5 %)
 
 **Herausforderung:**  
-- Breite Auswirkungen auf Prozesse (Auftrag, Rechnung, Rabatte).  
+- Breite Auswirkungen auf Prozesse (Auftrag, Rechnung, Rabatte, etc).  
 - Geringes internes Know-how (letzte Änderung >6 Jahre her).  
-- Komplexität durch Sonderfälle (z.B. Lieferung am 31.12., Buchung am 02.01.).
+- Komplexität durch Sonderfälle (z.B. Lieferung am 31.12., Verbuchung am 02.01.).
 
 ---

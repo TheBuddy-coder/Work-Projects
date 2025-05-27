@@ -74,7 +74,6 @@ Digitalisierung und Automatisierung des Auftragsprozesses.
 
 **Lösungsweg:**  
 - Automatischer Import von Warenkorb-Inhalten.  
-- Entwicklung einer neuen Benutzeroberfläche zur Lagerprüfung und Auftragserstellung.  
 - Anbindung an Integration Services und ERP-Systeme.
 
 ---

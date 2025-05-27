@@ -79,7 +79,7 @@ Digitalisierung und Automatisierung des Auftragsprozesses.
 
 ---
 
-## 💰 Einführung neue MwSt.-Satze (Bison)
+## 💰 Einführung neue MwSt.-Satz (Bison)
 
 **Projektumfang:**    
 - 3 Entwickler (Mehrere Scrum-Teams), 1 Projektleiter  

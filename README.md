@@ -1,6 +1,7 @@
 # 💼 Berufliche Projekte
 
 Eine Sammlung von Projekten aus meinem beruflichen Alltag, die technische Herausforderungen analysieren und softwaregestützte Lösungen implementieren. Die Projekte reichen von Embedded-System-Anpassungen über Prozessautomatisierung bis zur ERP-Systementwicklung.
+<div align="center"><a href="https://www.schaerer.com/english/"><img src="images/schaerer_logo.svg.png" width="20%" hspace="50"/></a><a href="https://www.bison-group.com/"><img src="images/bison_logo_rgb.svg.png" width="20%"/></a></div>
 
 ---
 

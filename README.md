@@ -62,8 +62,7 @@ Entwicklung eines plattformkonformen Konverters, sodass PM und Tech-Support Vide
 
 ## 🌱 Auftragsimport LANDI (Bison)
 
-**Projektumfang:**  
-- 1600h Aufwand  
+**Projektumfang:**   
 - 2–3 Entwickler, 1 Hauptprojektleiter + weitere je nach Bedarf
 - 12 Sprints à 2 Wochen  
 
@@ -82,8 +81,7 @@ Digitalisierung und Automatisierung des Auftragsprozesses.
 
 ## 💰 Einführung neue MwSt.-Satze (Bison)
 
-**Projektumfang:**  
-- 480h Aufwand  
+**Projektumfang:**    
 - 3 Entwickler (Mehrere Scrum-Teams), 1 Projektleiter  
 - 3 Sprints à 2 Wochen
 

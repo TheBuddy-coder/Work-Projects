@@ -10,7 +10,7 @@ Eine Sammlung von Projekten aus meinem beruflichen Alltag, die technische Heraus
 **Problem:**  
 Frisch gemahlener Kaffee landete teilweise nicht im Brüher, sondern im Satzbehälter – vor allem bei Maschinen im Dauerbetrieb.
 
-**Ursache:**  
+**Ursache:**  <img src="images/brueher.png" align="right" width="17%" hspace="10%"/>
 Das Brühermotor-Moment ist temperaturabhängig. Da Einwurf-/Auswurf-Positionen zeitbasiert angesteuert wurden, verschoben sich diese mit der Zeit.
 
 **Lösung:**  
@@ -23,6 +23,8 @@ Verwendung eines Encoders zur exakten Positionsbestimmung.
 - Erkennung der Position mittels FFT-Konvolution anhand eines grünen Referenzkreuzes.  
 - Effiziente Positionsanalyse und Validierung des Encodereinsatzes.
 
+  
+
 ---
 
 ## 🧼 Neuer Milchreinigungsprozess (Schaerer)
@@ -33,7 +35,7 @@ Ein Grosskunde war mit der bakteriellen Reduktion im bestehenden Reinigungsproze
 **Ursache:**  
 Der Prozess war nicht effektiv genug gegenüber Bakterien – trotz Einhaltung der EU-Normen.
 
-**Lösung:**  
+**Lösung:**  <img src="images/VideoFormat_3.png" align="right" width="23%" hspace="10%"/>
 Implementierung eines Reinigungsprozesses mit Dampfstoss-Desinfektion, welcher die Keimbelastung um den Faktor 100.000 senkt.
 
 **Lösungsweg:**  
@@ -49,7 +51,7 @@ Implementierung eines Reinigungsprozesses mit Dampfstoss-Desinfektion, welcher d
 **Bedarf:**  
 Grosskunden wollten Werbevideos auf der Kaffeemaschinen abspielen.
 
-**Problem:**  
+**Problem:**  <img src="images/VideoFormat.png" align="right" width="16%" hspace="10%"/>
 Das Embedded-System unterstützte nur bestimmte Formate und Codecs.
 
 **Lösung:**  

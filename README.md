@@ -65,7 +65,7 @@ Entwicklung eines plattformkonformen Konverters, sodass PM und Tech-Support Vide
 
 ## 🌱 Auftragsimport LANDI (Bison)
 
-**Projektumfang:**   
+**Projektumfang:**   <img src="images/AiLA.png" align="right" width="22%" hspace="10%"/>
 - 2–3 Entwickler, 1 Hauptprojektleiter + weitere je nach Bedarf
 - 12 Sprints à 2 Wochen  
 
@@ -76,7 +76,8 @@ Bestellungen vom Online-Shop wurden per PDF übermittelt und manuell bei der LAN
 Digitalisierung und Automatisierung des Auftragsprozesses.
 
 **Lösungsweg:**  
-- Automatischer Import von Warenkorb-Inhalten.  
+- Automatischer Import von Warenkorb-Inhalten:
+  - Aufteilung der Bestellung danach halbautomatisch: Was liefert die LANDI oder der Hersteller direkt
 - Anbindung an Integration Services und ERP-Systeme.
 
 ---

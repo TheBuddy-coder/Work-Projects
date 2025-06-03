@@ -81,11 +81,11 @@ Digitalisierung und Automatisierung des Auftragsprozesses.
 
 ---
 
-## 💰 Einführung neue MwSt.-Satz (Bison)
+## 💰 Einführung neuer MwSt.-Sätze (Bison)
 
-**Projektumfang:**    
+**Projektumfang:**   
 - 3 Entwickler (Mehrere Scrum-Teams), 1 Projektleiter  
-- 3 Sprints à 2 Wochen
+- 3 Sprints à 2 Wochen  <img src="images/MwSt.png" align="right" width="20%" hspace="10%"/>
 
 **Hintergrund:**  
 Ab dem 1. Januar 2024:  

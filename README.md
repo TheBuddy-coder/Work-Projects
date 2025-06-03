@@ -7,10 +7,10 @@ Eine Sammlung von Projekten aus meinem beruflichen Alltag, wie technische Heraus
 
 ## 🔍 Messen der Brüher Einwurfposition (Schaerer)
 
-**Problem:**  
+**Problem:**   <img src="images/brueher.png" align="right" width="18%" hspace="5%"/>
 Frisch gemahlener Kaffee landete teilweise nicht im Brüher, sondern im Satzbehälter – vor allem bei Maschinen im Dauerbetrieb.
 
-**Ursache:**  <img src="images/brueher.png" align="right" width="19%" hspace="10%"/>
+**Ursache:** 
 Das Brühermotor-Moment ist temperaturabhängig. Da Einwurf-/Auswurf-Positionen zeitbasiert angesteuert wurden, verschoben sich diese mit der Zeit.
 
 **Lösung:**  
@@ -32,10 +32,10 @@ Verwendung eines Encoders zur exakten Positionsbestimmung.
 **Problem:**  
 Ein Grosskunde war mit der bakteriellen Reduktion im bestehenden Reinigungsprozess unzufrieden.
 
-**Ursache:**  
+**Ursache:**  <img src="images/VideoFormat_3.png" align="right" width="24%" hspace="5%"/>
 Der Prozess war nicht effektiv genug gegenüber Bakterien – trotz Einhaltung der EU-Normen.
 
-**Lösung:**  <img src="images/VideoFormat_3.png" align="right" width="24%" hspace="10%"/>
+**Lösung:**  
 Implementierung eines Reinigungsprozesses mit Dampfstoss-Desinfektion, welcher die Keimbelastung um den Faktor 100.000 senkt.
 
 **Lösungsweg:**  
@@ -49,9 +49,9 @@ Implementierung eines Reinigungsprozesses mit Dampfstoss-Desinfektion, welcher d
 ## 🎞️ Media Converter Tool (Schaerer)
 
 **Bedarf:**  
-Grosskunden wollten Werbevideos auf der Kaffeemaschinen abspielen.
+Grosskunden wollten Werbevideos auf der Kaffeemaschinen abspielen.<img src="images/VideoFormat.png" align="right" width="17%" hspace="5%"/>
 
-**Problem:**  <img src="images/VideoFormat.png" align="right" width="18%" hspace="10%"/>
+**Problem:**  
 Das Embedded-System unterstützte nur bestimmte Formate und Codecs.
 
 **Lösung:**  
@@ -65,7 +65,7 @@ Entwicklung eines plattformkonformen Konverters, sodass PM und Tech-Support Vide
 
 ## 🌱 Auftragsimport LANDI (Bison)
 
-**Projektumfang:**   <img src="images/AiLA.png" align="right" width="24%" hspace="10%"/>
+**Projektumfang:**   <img src="images/AiLA.png" align="right" width="24%" hspace="5%"/>
 - 2–3 Entwickler, 1 Hauptprojektleiter + weitere je nach Bedarf
 - 12 Sprints à 2 Wochen  
 
@@ -85,8 +85,8 @@ Digitalisierung und Automatisierung des Auftragsprozesses.
 ## 💰 Einführung neuer MwSt.-Sätze (Bison)
 
 **Projektumfang:**   
-- 3 Entwickler (Mehrere Scrum-Teams), 1 Projektleiter  
-- 3 Sprints à 2 Wochen  <img src="images/MwSt.png" align="right" width="22%" hspace="10%"/>
+- 3 Entwickler (Mehrere Scrum-Teams), 1 Projektleiter <img src="images/MwSt.png" align="right" width="22%" hspace="5%"/>
+- 3 Sprints à 2 Wochen  
 
 **Hintergrund:**  
 Ab dem 1. Januar 2024:  
